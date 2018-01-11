@@ -1,2 +1,2 @@
-esta es una prueba del archivo
- se añade una linea de codigo 
+﻿esta es una prueba del archivo
+ se anade una linea de codigo 
